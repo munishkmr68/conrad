@@ -610,10 +610,10 @@
 	}
 	
 	.scattered-grid .item.tall:nth-of-type(6n+1) {
-		width: 30%;
-		margin-left: 2%;
-		margin-right: 2%;
-		height: 27vw;
+		width: 50%;
+		margin-left:5%;
+		margin-right:5%;
+		height: 45vw;
 	}
 	
 	.scattered-grid .item:nth-of-type(6n+2) {
